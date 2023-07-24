@@ -1,6 +1,10 @@
-line1
-line2
-line3
-line4
-line5
-line6
+line1 in main
+line2 in main
+line3 in main
+line4 in main
+line5 in main
+line6 in main
+new line1 added
+new line2 added
+new line3 added
+one line added

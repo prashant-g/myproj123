@@ -4,3 +4,8 @@ line3 in test
 line4 in test
 line5 in test
 line6 in test
+new line1 added
+new line2 added
+new line3 added
+new line4 added
+one line added
